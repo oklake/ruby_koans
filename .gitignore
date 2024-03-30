@@ -5,3 +5,7 @@ dist
 .ruby-version
 *.rbc
 *~
+.replit
+Gemfile
+Gemfile.lock
+replit_zip_error_log.txt
